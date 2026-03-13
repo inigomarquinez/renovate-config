@@ -1,0 +1,7 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Renovate presets for my GitHub repositories.",
+  "extends": [
+    "config:best-practices"
+  ]
+}
