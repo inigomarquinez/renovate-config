@@ -3,5 +3,16 @@
   "description": "Renovate presets for my GitHub repositories.",
   "extends": [
     "config:best-practices"
-  ]
+  ],
+  "dockerfile": {
+    "enabled": true
+  },
+  "osvVulnerabilityAlerts": true,
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "addLabels": [
+      "security",
+      "vulnerability"
+    ]
+  }
 }
