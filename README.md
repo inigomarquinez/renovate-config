@@ -2,6 +2,10 @@
 
 📡 Centralized renovate shared presets for my GitHub repositories.
 
+## Renovate panel
+
+https://developer.mend.io/
+
 ## 🔗 Useful links
 
 - [Shareable Config Presets in GitHub](https://docs.renovatebot.com/config-presets/#github-hosted-presets)
